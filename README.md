@@ -1,4 +1,4 @@
-# P751DM2-G BIOS
+# CLEVO P751DM2-G BIOS
 
 This is Obsidian-PC branded P7XXDM2-G BIOS update package version 56 53 52 SiO
 
